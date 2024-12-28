@@ -1,11 +1,5 @@
-# Automated_banana_farming
-
-
-## deployed Spehron link
-https://automated-banana-farming-879626.spheron.app/
 
 ### Autonomous rover driving demo
-
 
 https://github.com/vandit98/automated_banana_farming_/assets/91458535/208f5fba-e46f-4ae0-a8b0-a6a8cf2cbe6f
 
